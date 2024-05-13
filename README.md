@@ -4,3 +4,4 @@
 ## Gravando mudanças no repositorio
 
 * Uso do comando git restore
+* uso do comando git fetch
